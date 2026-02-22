@@ -1,0 +1,17 @@
+filename = 'projectile_damage-forge-3.2.2+1.20.1.jar'
+name = 'Projectile Damage Attribute [Fabric & Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'projectile_damage-forge-3.2.2+1.20.1.jar'
+
+[download]
+hash = '9c7378a0b9905d032c8bb5a6f72866229bfe4ed6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4597791
+project-id = 643780

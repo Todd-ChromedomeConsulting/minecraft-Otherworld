@@ -1,0 +1,17 @@
+filename = 'particle_effects-1.20.1-Forge-1.0.1.jar'
+name = 'Particle Effects Reforged'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'particle_effects-1.20.1-Forge-1.0.1.jar'
+
+[download]
+hash = 'ec35daee21c7c8acf067699c67f08135ca9f8fa4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6584238
+project-id = 1274497

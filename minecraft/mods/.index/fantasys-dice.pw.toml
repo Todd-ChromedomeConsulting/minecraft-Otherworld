@@ -1,0 +1,17 @@
+filename = 'fantasydice-1.20.1-10.0.0.jar'
+name = "Fantasy's Dice"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fantasydice-1.20.1-10.0.0.jar'
+
+[download]
+hash = '4f29fde0802ece69c671d70fd84ae4d8123e20eb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4702167
+project-id = 573867

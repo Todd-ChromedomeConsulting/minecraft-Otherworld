@@ -1,0 +1,17 @@
+filename = 'monobank-1.20.1-1.1.5.jar'
+name = 'Monobank'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Monobank - 1.20.1 - 1.1.5'
+
+[download]
+hash = '09fda4a573285ebcd2ab5c345a2863e1d3022e64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6550141
+project-id = 817257

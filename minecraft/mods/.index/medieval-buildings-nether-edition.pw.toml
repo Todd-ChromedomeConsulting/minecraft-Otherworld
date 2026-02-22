@@ -1,0 +1,17 @@
+filename = 'medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar'
+name = 'Medieval Buildings [Nether Edition]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Medieval Buildings [Nether Edition] - MC 1.20.1 - 1.0.2'
+
+[download]
+hash = '5c6c11ef678a500bdf1fb35e8e82739a71765f3e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7435310
+project-id = 1278431

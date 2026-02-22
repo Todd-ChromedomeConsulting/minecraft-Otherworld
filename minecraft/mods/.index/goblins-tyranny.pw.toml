@@ -1,0 +1,17 @@
+filename = 'goblins_tyranny-1.2.3-forge-1.20.1.jar'
+name = "Goblin's Tyranny"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Goblin's Tyranny 1.2.3 (1.20.1) - Cave Goblin Update"
+
+[download]
+hash = '84a87d207f626b1a76182d706249bc2dd36f617d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5651594
+project-id = 1020500

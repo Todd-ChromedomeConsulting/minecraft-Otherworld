@@ -1,0 +1,158 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1768784262592,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8Vx7udxqja"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1768769267834,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KpNhMkyYyw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1768769222111,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/t7OOnxyjxN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1768364825996,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Azr1dpF09T"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1767746712418,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ojATocRRCV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1767597182037,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/tYFz8mlDua"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1767596599578,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Fgk3tELH3y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1767592603769,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/d2iJCZg3lt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1767592435473,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/h39CljkF6K"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1764300541169,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\renpi\\curseforge\\minecraft\\Instances\\Otherworld\\config\\spark\\heap-2025-11-27_21.28.51.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1764299758667,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\renpi\\curseforge\\minecraft\\Instances\\Otherworld\\config\\spark\\heap-2025-11-27_21.15.43.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1752271636287,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\renpi\\curseforge\\minecraft\\Instances\\Otherworld\\config\\spark\\heap-2025-07-11_17.07.07.hprof"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+filename = 'alshanex_familiars-1.20.1_v3.8_HOTFIX.jar'
+name = "Alshanex's Familiars"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Alshanex_Familiars-1.20.1_v3.8_HOTFIX.jar'
+
+[download]
+hash = '47884d7680396fff177a19ad9a19a7bf032d8b24'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7481428
+project-id = 1171602

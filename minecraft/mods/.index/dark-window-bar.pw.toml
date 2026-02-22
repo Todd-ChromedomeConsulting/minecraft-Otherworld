@@ -1,0 +1,17 @@
+filename = 'darkwindowbar-forge-1.0.0-1.20.1.jar'
+name = 'Dark Window Bar'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DarkWindowBar Forge 1.0.0 for 1.20.1'
+
+[download]
+hash = 'd6895c6c2fb2ea112336ee1626e1829049e1bd13'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6715997
+project-id = 1297905

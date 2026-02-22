@@ -1,0 +1,17 @@
+filename = 'thief-1.20.1-1.2.2-forge.jar'
+name = 'Thief'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Thief - Forge 1.20.1 - 1.2.2'
+
+[download]
+hash = '0e021a1173b1f27a5f62ca6574ff272e3efd1478'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6880536
+project-id = 839159

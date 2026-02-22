@@ -1,0 +1,17 @@
+filename = 'nordic_structures-1.6.9-forge-1.20.1.jar'
+name = 'Nordic Adventure'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'nordic_structures-1.6.9-forge-1.20.1.jar'
+
+[download]
+hash = '07c378c1a62ca2b865aead28ce1ee53debd096fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5792002
+project-id = 1006963

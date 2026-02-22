@@ -1,0 +1,17 @@
+filename = 'sparsestructures-forge-1.20.1-3.0.jar'
+name = 'Sparse Structures'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Sparse Structures 3.0'
+
+[download]
+hash = '3a14160106a66c54ce47c5e26d8a20c70b44d4c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6453956
+project-id = 911437

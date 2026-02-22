@@ -1,0 +1,17 @@
+filename = 'otherworldorigins-1.5.0.jar'
+name = 'Otherworld - Origins'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.5.0'
+
+[download]
+hash = '33ae1d37b2db256e3a935e73ff156e51e9971ee4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7651507
+project-id = 1127963

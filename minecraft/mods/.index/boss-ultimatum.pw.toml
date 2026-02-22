@@ -1,0 +1,17 @@
+filename = 'bossultimatum-forge-1.0.0-1.20.1.jar'
+name = 'Boss Ultimatum (Modpack Utils Series)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Forge 1.20.1 | v1.0.0'
+
+[download]
+hash = '1d07e958bbd03df7f29d80d4e8bcc9d4e117ece5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6487276
+project-id = 1256874

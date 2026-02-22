@@ -1,0 +1,17 @@
+filename = 'tridot-1.20.1-1.0.131.jar'
+name = 'Tridot'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tridot-1.20.1-1.0.131.jar'
+
+[download]
+hash = '7f2ab27b277aebbb449e2456db2a75a073e9d030'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7561888
+project-id = 1239146

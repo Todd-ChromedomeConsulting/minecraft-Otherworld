@@ -1,0 +1,17 @@
+filename = 'dragonseeker-1.2.0-1.20.1.jar'
+name = 'Ice and Fire: Dragonseeker'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Dragonseeker 1.2.0 - 1.20.1'
+
+[download]
+hash = '1c56662adba5ee9e1aa08cde332d22444a372dfc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5097405
+project-id = 490653

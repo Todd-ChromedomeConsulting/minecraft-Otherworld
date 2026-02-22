@@ -1,0 +1,17 @@
+filename = 'minecells-1.9.2.jar'
+name = 'Mine Cells - Dead Cells Mod'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'minecells-1.9.2+1.20.1'
+
+[download]
+hash = 'b372a259eb8e69f1f3bd3e38d5f055169a60997b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6077063
+project-id = 618790

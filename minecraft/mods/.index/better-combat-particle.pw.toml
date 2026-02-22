@@ -1,0 +1,17 @@
+filename = 'bc_particle-0.0.4-forge-1.20.1.jar'
+name = 'Better Combat Particle'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bc_particle-0.0.4-forge-1.20.1.jar'
+
+[download]
+hash = '924f355dbcd54b99462084ce37c578b86a75b865'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7369563
+project-id = 1372768

@@ -1,0 +1,17 @@
+filename = 'createcontraptionterminals-1.20-1.2.0.jar'
+name = 'Create Contraption Terminals'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Create Contraption Terminals 1.20-1.2.0'
+
+[download]
+hash = '10bedd1b9b03eb950936e29e339bf840ee739b65'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6252786
+project-id = 1059879

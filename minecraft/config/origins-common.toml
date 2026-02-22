@@ -1,0 +1,1175 @@
+
+[origins]
+
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."medievalorigins:dwarf"]
+		enabled = true
+		"medievalorigins:dwarf/dwarven_tech" = true
+		"medievalorigins:dwarf/miniature" = true
+		"medievalorigins:dwarf/nocturnal_eyes" = true
+		"medievalorigins:dwarf/darkness_dweller" = true
+		"medievalorigins:dwarf/dense" = true
+		"medievalorigins:dwarf/potent_brew" = true
+		"medievalorigins:dwarf/mythril_resonance" = true
+		"medievalorigins:dwarf/pickaxeless_stone" = true
+		"medievalorigins:dwarf/helmet_spawn" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."medievalorigins:pixie"]
+		enabled = true
+		"medievalorigins:pixie/flight" = true
+		"medievalorigins:pixie/pixie_properties" = true
+		"medievalorigins:pixie/feather_footed" = true
+		"medievalorigins:pixie/wings" = true
+		"medievalorigins:pixie/mount" = true
+		"medievalorigins:pixie/good_fortunes" = true
+		"medievalorigins:pixie/mischief_maketh_man" = true
+		"medievalorigins:pixie/curse_of_flight" = true
+		"medievalorigins:pixie/soaked" = true
+		"medievalorigins:pixie/troublemaker" = true
+
+	[origins."medievalorigins:high_elf"]
+		enabled = true
+		"medievalorigins:high_elf/void_warp" = true
+		"medievalorigins:high_elf/blazenbreath_weak" = true
+		"medievalorigins:high_elf/elegant" = true
+		"medievalorigins:high_elf/gear_spawn" = true
+		"medievalorigins:high_elf/instant_cure" = true
+		"medievalorigins:high_elf/spell_power_irons" = true
+		"medievalorigins:high_elf/ebonbreath" = true
+		"medievalorigins:high_elf/glacial_step" = true
+		"medievalorigins:high_elf/towering" = true
+		"medievalorigins:high_elf/fragile" = true
+		"medievalorigins:high_elf/mystic_affinity" = true
+		"medievalorigins:high_elf/extrusive_movement" = true
+		"medievalorigins:high_elf/blazenbreath" = true
+		"medievalorigins:high_elf/mana_irons" = true
+		"medievalorigins:high_elf/subclass_picker" = true
+		"medievalorigins:high_elf/mana_rpgmana" = true
+
+	[origins."medievalorigins:plague_victim"]
+		enabled = true
+		"medievalorigins:plague_victim/foul_aura" = true
+		"medievalorigins:plague_victim/plague_immunity" = true
+		"medievalorigins:plague_victim/risk_of_transmission" = true
+		"medievalorigins:plague_victim/contagious" = true
+		"medievalorigins:plague_victim/insomniac" = true
+		"medievalorigins:plague_victim/sensitive_skin" = true
+		"medievalorigins:plague_victim/skin_and_bones" = true
+		"origins_survive:illness_resistance" = true
+		"medievalorigins:plague_victim/undeadge" = true
+		"medievalorigins:plague_victim/eternal_suffering" = true
+
+	[origins."medievalorigins:revenant"]
+		enabled = true
+		"medievalorigins:revenant/cronch" = true
+		"medievalorigins:revenant/transfer_item" = true
+		"medievalorigins:revenant/skeleton_summons" = true
+		"medievalorigins:revenant/zombie_summons" = true
+		"medievalorigins:revenant/putrid_communion" = true
+		"medievalorigins:revenant/hellraiser" = true
+		"medievalorigins:revenant/siphon" = true
+		"medievalorigins:revenant/unwitherable" = true
+		"medievalorigins:revenant/undeadge" = true
+		"medievalorigins:revenant/poor_reputation" = true
+		"medievalorigins:revenant/black_thumb" = true
+		"medievalorigins:revenant/disturbed" = true
+		"medievalorigins:revenant/unguarded" = true
+		"origins_survive:sleepless" = true
+
+	[origins."medievalorigins:banshee"]
+		enabled = true
+		"medievalorigins:banshee/spectral" = true
+		"medievalorigins:banshee/sonic_shriek" = true
+		"medievalorigins:banshee/lunar_nexus" = true
+		"medievalorigins:banshee/dimeritium_shackles" = true
+		"medievalorigins:banshee/hexed" = true
+		"medievalorigins:banshee/immaterial" = true
+		"medievalorigins:banshee/overwhelmed" = true
+		"origins_survive:sleepless" = true
+		"medievalorigins:banshee/cursed_sigil" = true
+		"medievalorigins:banshee/cursed_ward" = true
+
+	[origins."medievalorigins:gorgon"]
+		enabled = true
+		"medievalorigins:gorgon/petrifying_gaze" = true
+		"medievalorigins:gorgon/revenge" = true
+		"medievalorigins:gorgon/hydrophobe" = true
+		"medievalorigins:gorgon/to_stone" = true
+		"medievalorigins:gorgon/silver_aversion" = true
+		"medievalorigins:gorgon/poison_blood" = true
+		"medievalorigins:gorgon/poison_immune" = true
+		"origins_env_deh:thirst_resistance" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."medievalorigins:wood_elf"]
+		enabled = true
+		"medievalorigins:wood_elf/archer" = true
+		"medievalorigins:wood_elf/forest_vision" = true
+		"medievalorigins:wood_elf/eagle_eyed" = true
+		"medievalorigins:wood_elf/towering" = true
+		"medievalorigins:wood_elf/steward" = true
+		"medievalorigins:wood_elf/elegant" = true
+		"medievalorigins:wood_elf/graceful" = true
+		"medievalorigins:wood_elf/gear_spawn" = true
+		"medievalorigins:wood_elf/empowered_shot_zenith" = true
+		"medievalorigins:wood_elf/empowered_shot_apotheosis" = true
+		"medievalorigins:wood_elf/spell_power" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+
+	[origins."medievalorigins:fae"]
+		enabled = true
+		"medievalorigins:fae/levitation" = true
+		"medievalorigins:fae/magic_resistance" = true
+		"medievalorigins:fae/magic_damage_boost" = true
+		"medievalorigins:fae/regen" = true
+		"medievalorigins:fae/allure" = true
+		"medievalorigins:fae/diminutive" = true
+		"medievalorigins:fae/iron_aversion" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."medievalorigins:goblin"]
+		enabled = true
+		"medievalorigins:goblin/greedy" = true
+		"medievalorigins:goblin/green" = true
+		"medievalorigins:goblin/durability" = true
+		"medievalorigins:goblin/cunning" = true
+		"medievalorigins:goblin/nippy" = true
+		"medievalorigins:goblin/stunted" = true
+		"medievalorigins:goblin/frail" = true
+
+	[origins."medievalorigins:moon_elf"]
+		enabled = true
+		"medievalorigins:moon_elf/moonlight_rogue" = true
+		"medievalorigins:moon_elf/stealth" = true
+		"medievalorigins:moon_elf/ethereal" = true
+		"medievalorigins:moon_elf/crazed" = true
+		"medievalorigins:moon_elf/elegant" = true
+		"medievalorigins:moon_elf/nimble" = true
+		"medievalorigins:moon_elf/fragile" = true
+		"medievalorigins:moon_elf/towering" = true
+		"origins_survive:sleepless" = true
+
+	[origins."medievalorigins:yeti"]
+		enabled = true
+		"medievalorigins:yeti/frigid_pulse" = true
+		"medievalorigins:yeti/from_whence_you_came" = true
+		"medievalorigins:yeti/frosty_breath" = true
+		"medievalorigins:yeti/titanic" = true
+		"medievalorigins:yeti/unstoppable" = true
+		"medievalorigins:yeti/winter_body" = true
+		"medievalorigins:yeti/flammable" = true
+		"medievalorigins:yeti/thick_fur" = true
+		"origins_survive:cold_resistance" = true
+		"medievalorigins:yeti/spell_power" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"origins_toughasnails:cold_resistance" = true
+
+	[origins."medievalorigins:siren"]
+		enabled = true
+		"medievalorigins:siren/siren_song" = true
+		"medievalorigins:siren/amphibious" = true
+		"medievalorigins:siren/holy_water" = true
+		"medievalorigins:siren/out_of_your_depth" = true
+		"medievalorigins:siren/prone" = true
+		"medievalorigins:siren/flammable" = true
+		"medievalorigins:siren/water_vision" = true
+		"medievalorigins:siren/seduce" = true
+		"mermod:fabulous_fins" = true
+		"survive:cold_blooded" = true
+		"origins:aquatic" = true
+		"origins:like_water" = true
+		"origins_env_deh:water_dweller" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+
+	[origins."medievalorigins:incubus"]
+		enabled = true
+		"medievalorigins:incubus/demon_fire" = true
+		"medievalorigins:incubus/hellborne" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:incubus/unholy_deal" = true
+		"medievalorigins:incubus/hydrophobe" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:incubus/dimension_strength" = true
+		"medievalorigins:incubus/lava_swim" = true
+		"medievalorigins:incubus/red" = true
+		"origins:nether_spawn" = true
+		"origins_survive:lava_drinker" = true
+		"origins_survive:heat_resistance" = true
+		"medievalorigins:incubus/spell_power" = true
+		"origins_env_deh:heat_resistance" = true
+		"thermoo-patches:heat_immune" = true
+		"thermoo-patches:cold_vulnerability" = true
+		"origins_toughasnails:lava_drinker" = true
+		"origins_toughasnails:thermal_regulator" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+
+	[origins."medievalorigins:ogre"]
+		enabled = true
+		"medievalorigins:ogre/gargantuan" = true
+		"medievalorigins:ogre/bloodlust" = true
+		"medievalorigins:ogre/ravager" = true
+		"medievalorigins:ogre/lead_belly" = true
+		"medievalorigins:ogre/stocky" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:ogre/sluggish" = true
+		"medievalorigins:ogre/unwieldy" = true
+		"medievalorigins:ogre/ogre_properties" = true
+		"medievalorigins:ogre/bloodlust_camera" = true
+		"medievalorigins:ogre/orcish_pride" = true
+		"origins_survive:illness_resistance" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."medievalorigins:alfiq"]
+		enabled = true
+		"medievalorigins:alfiq/clawed" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"medievalorigins:alfiq/agile_preference" = true
+		"medievalorigins:alfiq/on_your_feet" = true
+		"medievalorigins:alfiq/crepuscular" = true
+		"medievalorigins:alfiq/pickpocket" = true
+		"medievalorigins:alfiq/pickpocket_player" = true
+		"medievalorigins:alfiq/pounce" = true
+		"origins:carnivore" = true
+		"origins:velvet_paws" = true
+		"origins:scare_creepers" = true
+		"medievalorigins:alfiq/meow" = true
+
+	[origins."medievalorigins:troll"]
+		enabled = true
+		"medievalorigins:troll/ironhide" = true
+		"medievalorigins:troll/ham_fisted" = true
+		"medievalorigins:troll/mountainous" = true
+		"medievalorigins:troll/apex_predator" = true
+		"medievalorigins:troll/lumbering" = true
+		"medievalorigins:troll/old_blood" = true
+		"medievalorigins:troll/out_of_stock" = true
+		"origins_survive:cold_resistance" = true
+		"medievalorigins:troll/spell_power" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"origins_toughasnails:cold_resistance" = true
+
+	[origins."medievalorigins:arachnae"]
+		enabled = true
+		"medievalorigins:arachnae/climber" = true
+		"medievalorigins:arachnae/many_eyes" = true
+		"medievalorigins:arachnae/venomous_bite" = true
+		"medievalorigins:arachnae/web_slinger" = true
+		"medievalorigins:arachnae/bottomless_stomach" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:arachnae/fragile_exoskeleton" = true
+		"origins:master_of_webs" = true
+		"origins:arthropod" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/heavily_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/heavily_armored" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/animal_handling"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/animal_handling" = true
+
+	[origins."ojs_rpg_origins:bard"]
+		enabled = true
+		"ojs_rpg_origins:decoy" = true
+		"origins:more_exhaustion" = true
+		"ojs_rpg_origins:not_the_smartest" = true
+		"ojs_rpg_origins:charismatic" = true
+		"ojs_rpg_origins:charismatic_toggle" = true
+		"ojs_rpg_origins:bard_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/survival"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/survival" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/nature"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/nature" = true
+
+	[origins."ojs_rpg_origins:brute"]
+		enabled = true
+		"ojs_rpg_origins:no_time_to_rest" = true
+		"origins:no_shield" = true
+		"origins:strong_arms" = true
+		"ojs_rpg_origins:select_targets_strong" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		"ojs_rpg_origins:select_targets_weak" = true
+		"ojs_rpg_origins:brute_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/medicine"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/medicine" = true
+
+	[origins."ojs_rpg_origins:archer"]
+		enabled = true
+		"ojs_rpg_origins:marksman" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:inexperienced" = true
+		"ojs_rpg_origins:resourceful" = true
+		"ojs_rpg_origins:quiver" = true
+		"ojs_rpg_origins:archer_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/mobile"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/mobile" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/lightly_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/lightly_armored" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills"]
+		enabled = true
+
+	[origins."ojs_rpg_origins:cleric"]
+		enabled = true
+		"ojs_rpg_origins:villagefriendly" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:brewer_jumpboost" = true
+		"ojs_rpg_origins:brewer_speed" = true
+		"ojs_rpg_origins:brewer_strength" = true
+		"ojs_rpg_origins:brewer_regeneration" = true
+		"ojs_rpg_origins:heal_pool" = true
+		"ojs_rpg_origins:forgivable" = true
+		"ojs_rpg_origins:pure" = true
+		"ojs_rpg_origins:pure_color" = true
+		"ojs_rpg_origins:pure_shake" = true
+		"ojs_rpg_origins:one_with_the_world" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/tough"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/tough" = true
+
+	[origins."ojs_rpg_origins:variant_human/feat"]
+		enabled = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/athletics"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/athletics" = true
+
+	[origins."ojs_rpg_origins:mage"]
+		enabled = true
+		"ojs_rpg_origins:fastcure" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:water_walk" = true
+		"ojs_rpg_origins:unwieldly" = true
+		"ojs_rpg_origins:mage_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/moderately_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/moderately_armored" = true
+
+	[origins."ojs_rpg_origins:thief"]
+		enabled = true
+		"ojs_rpg_origins:speedy" = true
+		"ojs_rpg_origins:stealthy" = true
+		"origins:no_shield" = true
+		"ojs_rpg_origins:better_unnoticed" = true
+		"ojs_rpg_origins:uneasy_alliance" = true
+		"ojs_rpg_origins:thefty" = true
+		"ojs_rpg_origins:stealthy_damage" = true
+		"ojs_rpg_origins:weak" = true
+		"ojs_rpg_origins:thief_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/charger"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/charger" = true
+
+	[origins."ojs_rpg_origins:variant_human"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/skills" = true
+		"ojs_rpg_origins:variant_human/feat" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/stealth"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/stealth" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/arcana"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/arcana" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/sentinel"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/sentinel" = true
+
+	[origins."ojs_rpg_origins:berserker"]
+		enabled = true
+		"ojs_rpg_origins:hp" = true
+		"ojs_rpg_origins:rage" = true
+		"ojs_rpg_origins:unarmored" = true
+		"origins:no_shield" = true
+		"ojs_rpg_origins:berserker_item" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/sleight_of_hand"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/sleight_of_hand" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/skilled"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/skilled" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/skulker"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/skulker" = true
+
+	[origins."medievalorigins:valkyrie"]
+		enabled = true
+		"medievalorigins:valkyrie/wings" = true
+		"medievalorigins:valkyrie/divine_smite" = true
+		"medievalorigins:valkyrie/corruption" = true
+		"medievalorigins:valkyrie/vanquisher" = true
+		"medievalorigins:valkyrie/intervention" = true
+		"medievalorigins:valkyrie/heavenly_implements" = true
+		"medievalorigins:valkyrie/spell_power" = true
+
+	[origins."otherworldorigins:subclass/wizard/abjuration"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/abjuration" = true
+
+	[origins."otherworldorigins:feats/sharpshooter"]
+		enabled = true
+		"otherworldorigins:feats/sharpshooter" = true
+
+	[origins."otherworldorigins:feats/tough"]
+		enabled = true
+		"otherworldorigins:feats/tough" = true
+
+	[origins."otherworldorigins:subrace/dwarf/duergar"]
+		enabled = true
+		"otherworldorigins:subrace/dwarf/duergar" = true
+
+	[origins."otherworldorigins:cantrips/acid_orb"]
+		enabled = true
+		"otherworldorigins:cantrips/acid_orb" = true
+
+	[origins."otherworldorigins:cantrips/icicle"]
+		enabled = true
+		"otherworldorigins:cantrips/icicle" = true
+
+	[origins."otherworldorigins:subrace/halfling/lightfoot"]
+		enabled = true
+		"otherworldorigins:subrace/gnome/lightfoot" = true
+		"otherworldorigins:subrace/halfling/lightfoot" = true
+
+	[origins."otherworldorigins:feats/mobile"]
+		enabled = true
+		"otherworldorigins:feats/mobile" = true
+
+	[origins."otherworldorigins:cantrips/fortify"]
+		enabled = true
+		"otherworldorigins:cantrips/fortify" = true
+
+	[origins."otherworldorigins:subrace/dwarf/hill"]
+		enabled = true
+		"otherworldorigins:subrace/dwarf/hill" = true
+
+	[origins."otherworldorigins:cantrips/two/chain_lightning"]
+		enabled = true
+		"otherworldorigins:cantrips/two/chain_lightning" = true
+
+	[origins."otherworldorigins:feats/weapon_master"]
+		enabled = true
+		"otherworldorigins:feats/weapon_master" = true
+
+	[origins."otherworldorigins:subclass/rogue/assassin"]
+		enabled = true
+		"otherworldorigins:subclass/rogue/assassin" = true
+
+	[origins."otherworldorigins:subclass/warlock/great_old_one"]
+		enabled = true
+		"otherworldorigins:subclass/warlock/great_old_one" = true
+
+	[origins."otherworldorigins:subrace/undead/zombie"]
+		enabled = true
+		"otherworldorigins:subrace/undead/zombie/attributes" = true
+		"otherworldorigins:subrace/undead/zombie/resistance" = true
+		"otherworldorigins:subrace/undead/zombie/vulnerability" = true
+
+	[origins."otherworldorigins:class/paladin"]
+		enabled = true
+		"otherworldorigins:class/paladin/attributes" = true
+		"otherworldorigins:class/paladin/lay_on_hands" = true
+
+	[origins."otherworldorigins:apts/two/dex"]
+		enabled = true
+		"otherworldorigins:apts/two/dex" = true
+
+	[origins."otherworldorigins:class/barbarian"]
+		enabled = true
+		"otherworldorigins:class/barbarian/attributes" = true
+		"otherworldorigins:class/barbarian/rage" = true
+
+	[origins."otherworldorigins:subclass/cleric/knowledge"]
+		enabled = true
+		"otherworldorigins:subclass/cleric/knowledge" = true
+
+	[origins."otherworldorigins:subrace/elf/drow"]
+		enabled = true
+		"otherworldorigins:subrace/elf/drow" = true
+
+	[origins."otherworldorigins:cantrips/two/fortify"]
+		enabled = true
+		"otherworldorigins:cantrips/two/fortify" = true
+
+	[origins."otherworldorigins:subrace/other/githyanki"]
+		enabled = true
+		"otherworldorigins:subrace/other/githyanki/attributes" = true
+		"otherworldorigins:subrace/other/githyanki/size" = true
+		"otherworldorigins:subrace/other/githyanki/throw_pearl" = true
+		"otherworldorigins:subrace/other/githyanki/water_vulnerability" = true
+
+	[origins."otherworldorigins:apts/one/const"]
+		enabled = true
+		"otherworldorigins:apts/one/const" = true
+
+	[origins."otherworldorigins:subrace/halfling/stout"]
+		enabled = true
+		"otherworldorigins:subrace/gnome/stout" = true
+		"otherworldorigins:subrace/halfling/stout" = true
+
+	[origins."otherworldorigins:subclass/fighter/champion"]
+		enabled = true
+		"otherworldorigins:subclass/fighter/champion" = true
+
+	[origins."otherworldorigins:subrace/gnome/rock"]
+		enabled = true
+		"otherworldorigins:subrace/gnome/rock" = true
+
+	[origins."otherworldorigins:subrace/gnome/forest"]
+		enabled = true
+		"otherworldorigins:subrace/gnome/forest" = true
+
+	[origins."otherworldorigins:race/dragonborn"]
+		enabled = true
+		"otherworldorigins:race/dragonborn/attributes" = true
+		"otherworldorigins:race/dragonborn/draconic_ancestry" = true
+		"otherworldorigins:race/dragonborn/resistance" = true
+		"otherworldorigins:race/dragonborn/charisma" = true
+
+	[origins."otherworldorigins:subclass/barbarian/wildheart"]
+		enabled = true
+		"otherworldorigins:subclass/barbarian/wildheart" = true
+
+	[origins."otherworldorigins:race/undead"]
+		enabled = true
+		"otherworldorigins:race/undead/undead" = true
+
+	[origins."otherworldorigins:subclass/paladin/vengeance"]
+		enabled = true
+		"otherworldorigins:subclass/paladin/vengeance" = true
+
+	[origins."otherworldorigins:apts/two/str"]
+		enabled = true
+		"otherworldorigins:apts/two/str" = true
+
+	[origins."otherworldorigins:subclass/sorcerer/wild_magic"]
+		enabled = true
+		"otherworldorigins:subclass/sorcerer/wild_magic" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/brass"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/brass" = true
+
+	[origins."otherworldorigins:subclass/rogue/thief"]
+		enabled = true
+		"otherworldorigins:subclass/rogue/thief" = true
+
+	[origins."otherworldorigins:subclass/cleric/trickery"]
+		enabled = true
+		"otherworldorigins:subclass/cleric/trickery" = true
+
+	[origins."otherworldorigins:class/cleric"]
+		enabled = true
+		"otherworldorigins:class/cleric/attributes" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/white"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/white" = true
+
+	[origins."otherworldorigins:subclass/cleric/tempest"]
+		enabled = true
+		"otherworldorigins:subclass/cleric/tempest" = true
+
+	[origins."otherworldorigins:race/gnome"]
+		enabled = true
+		"otherworldorigins:race/gnome/attributes" = true
+		"otherworldorigins:race/gnome/speed" = true
+		"otherworldorigins:dark_vision" = true
+		"otherworldorigins:race/gnome/size" = true
+
+	[origins."otherworldorigins:class/wizard"]
+		enabled = true
+		"otherworldorigins:class/wizard/attributes" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:subclass/rogue/arcane_trickster"]
+		enabled = true
+		"otherworldorigins:subclass/rogue/arcane_trickster" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:apts/one/bld"]
+		enabled = true
+		"otherworldorigins:apts/one/bld" = true
+
+	[origins."otherworldorigins:class/warlock"]
+		enabled = true
+		"otherworldorigins:class/warlock/attributes" = true
+		"otherworldorigins:class/warlock/eldritch_blast" = true
+
+	[origins."otherworldorigins:subclass/wizard/enchanting"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/enchanting" = true
+
+	[origins."otherworldorigins:feats/defensive_duelist"]
+		enabled = true
+		"otherworldorigins:feats/defensive_duelist" = true
+
+	[origins."otherworldorigins:subclass/druid/spores"]
+		enabled = true
+		"otherworldorigins:subclass/druid/spores" = true
+
+	[origins."otherworldorigins:subclass/sorcerer/draconic_bloodline"]
+		enabled = true
+		"otherworldorigins:subclass/sorcerer/draconic_bloodline" = true
+
+	[origins."otherworldorigins:apts/two/lck"]
+		enabled = true
+		"otherworldorigins:apts/two/lck" = true
+
+	[origins."otherworldorigins:subclass/ranger/hunter"]
+		enabled = true
+		"otherworldorigins:subclass/ranger/hunter" = true
+
+	[origins."otherworldorigins:subclass/paladin/breaker"]
+		enabled = true
+		"otherworldorigins:subclass/paladin/breaker" = true
+
+	[origins."otherworldorigins:feats/everybodys_friend"]
+		enabled = true
+		"otherworldorigins:feats/everybodys_friend" = true
+
+	[origins."otherworldorigins:subrace/undead/skeleton"]
+		enabled = true
+		"otherworldorigins:subrace/undead/skeleton/attributes" = true
+		"otherworldorigins:subrace/undead/skeleton/bow_damage" = true
+		"otherworldorigins:subrace/undead/skeleton/vulnerability" = true
+
+	[origins."otherworldorigins:class/artificer"]
+		enabled = true
+		"otherworldorigins:class/artificer/attributes" = true
+
+	[origins."otherworldorigins:feats/martial_adept"]
+		enabled = true
+		"otherworldorigins:feats/martial_adept" = true
+
+	[origins."otherworldorigins:apts/two/def"]
+		enabled = true
+		"otherworldorigins:apts/two/def" = true
+
+	[origins."otherworldorigins:feats/spell_sniper"]
+		enabled = true
+		"otherworldorigins:feats/spell_sniper" = true
+
+	[origins."otherworldorigins:subclass/druid/moon"]
+		enabled = true
+		"otherworldorigins:subclass/druid/moon" = true
+
+	[origins."otherworldorigins:subrace/half_elf/drow"]
+		enabled = true
+		"otherworldorigins:subrace/half_elf/drow" = true
+
+	[origins."otherworldorigins:apts/two/int"]
+		enabled = true
+		"otherworldorigins:apts/two/int" = true
+
+	[origins."otherworldorigins:cantrips/two/ray_of_frost"]
+		enabled = true
+		"otherworldorigins:cantrips/two/ray_of_frost" = true
+
+	[origins."otherworldorigins:subclass/druid/land"]
+		enabled = true
+		"otherworldorigins:subclass/druid/land" = true
+
+	[origins."otherworldorigins:subclass/wizard/conjuration"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/conjuration" = true
+
+	[origins."otherworldorigins:subclass/wizard/necromancy"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/necromancy" = true
+
+	[origins."otherworldorigins:apts/one/mag"]
+		enabled = true
+		"otherworldorigins:apts/one/mag" = true
+
+	[origins."otherworldorigins:class/bard"]
+		enabled = true
+		"otherworldorigins:class/bard/attributes" = true
+		"otherworldorigins:class/bard/starter_item" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:feats/savage_attacker"]
+		enabled = true
+		"otherworldorigins:feats/savage_attacker" = true
+
+	[origins."otherworldorigins:cantrips/two/magic_missile"]
+		enabled = true
+		"otherworldorigins:cantrips/two/magic_missile" = true
+
+	[origins."otherworldorigins:subclass/artificer/armorer"]
+		enabled = true
+		"otherworldorigins:subclass/artificer/armorer" = true
+
+	[origins."otherworldorigins:subclass/bard/lore"]
+		enabled = true
+		"otherworldorigins:subclass/bard/lore" = true
+
+	[origins."otherworldorigins:subclass/bard/swords"]
+		enabled = true
+		"otherworldorigins:subclass/bard/swords" = true
+
+	[origins."otherworldorigins:subclass/monk/shadow"]
+		enabled = true
+		"otherworldorigins:subclass/monk/shadow" = true
+
+	[origins."otherworldorigins:class/rogue"]
+		enabled = true
+		"otherworldorigins:class/rogue/attributes" = true
+		"otherworldorigins:class/rogue/sneak_attack" = true
+		"otherworldorigins:class/rogue/uncanny_dodge" = true
+
+	[origins."otherworldorigins:feats/mage_slayer"]
+		enabled = true
+		"otherworldorigins:feats/mage_slayer" = true
+
+	[origins."otherworldorigins:cantrips/two/firebolt"]
+		enabled = true
+		"otherworldorigins:cantrips/two/firebolt" = true
+
+	[origins."otherworldorigins:subclass/artificer/alchemist"]
+		enabled = true
+		"otherworldorigins:subclass/artificer/alchemist" = true
+
+	[origins."otherworldorigins:apts/one/dex"]
+		enabled = true
+		"otherworldorigins:apts/one/dex" = true
+
+	[origins."otherworldorigins:subrace/undead/wither_skeleton"]
+		enabled = true
+		"otherworldorigins:subrace/undead/wither_skeleton/attributes" = true
+		"otherworldorigins:subrace/undead/wither_skeleton/sword_damage" = true
+		"otherworldorigins:subrace/undead/wither_skeleton/vulnerability" = true
+		"otherworldorigins:subrace/undead/wither_skeleton/size" = true
+
+	[origins."otherworldorigins:reset"]
+		enabled = true
+		"otherworldorigins:reset" = true
+
+	[origins."otherworldorigins:apts/one/str"]
+		enabled = true
+		"otherworldorigins:apts/one/str" = true
+
+	[origins."otherworldorigins:class/druid"]
+		enabled = true
+		"otherworldorigins:class/druid/attributes" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:race/tiefling"]
+		enabled = true
+		"otherworldorigins:race/tiefling/attributes" = true
+		"otherworldorigins:race/tiefling/hellish_resistance" = true
+		"otherworldorigins:race/tiefling/infernal_legacy" = true
+		"otherworldorigins:race/tiefling/charisma" = true
+		"otherworldorigins:dark_vision" = true
+
+	[origins."otherworldorigins:cantrips/chain_lightning"]
+		enabled = true
+		"otherworldorigins:cantrips/chain_lightning" = true
+
+	[origins."otherworldorigins:class/monk"]
+		enabled = true
+		"otherworldorigins:class/monk/attributes" = true
+		"otherworldorigins:class/monk/ki" = true
+		"otherworldorigins:class/monk/step" = true
+		"otherworldorigins:class/monk/deflect_missiles" = true
+
+	[origins."otherworldorigins:class/fighter"]
+		enabled = true
+		"otherworldorigins:class/fighter/attributes" = true
+		"otherworldorigins:class/fighter/second_wind" = true
+
+	[origins."otherworldorigins:subclass/paladin/devotion"]
+		enabled = true
+		"otherworldorigins:subclass/paladin/devotion" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/bronze"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/bronze" = true
+
+	[origins."otherworldorigins:subclass/warlock/fiend"]
+		enabled = true
+		"otherworldorigins:subclass/warlock/fiend" = true
+
+	[origins."otherworldorigins:cantrips/ray_of_frost"]
+		enabled = true
+		"otherworldorigins:cantrips/ray_of_frost" = true
+
+	[origins."otherworldorigins:cantrips/two/icicle"]
+		enabled = true
+		"otherworldorigins:cantrips/two/icicle" = true
+
+	[origins."otherworldorigins:subrace/dwarf/mountain"]
+		enabled = true
+		"otherworldorigins:subrace/dwarf/mountain" = true
+
+	[origins."otherworldorigins:subrace/half_elf/wood"]
+		enabled = true
+		"otherworldorigins:subrace/half_elf/wood" = true
+
+	[origins."otherworldorigins:cantrips/gust"]
+		enabled = true
+		"otherworldorigins:cantrips/gust" = true
+
+	[origins."otherworldorigins:feats/shield_master"]
+		enabled = true
+		"otherworldorigins:feats/shield_master" = true
+
+	[origins."otherworldorigins:feats/polearm_master"]
+		enabled = true
+		"otherworldorigins:feats/polearm_master" = true
+
+	[origins."otherworldorigins:race/human"]
+		enabled = true
+		"otherworldorigins:race/human/attributes" = true
+		"otherworldorigins:race/human/discount" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/copper"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/copper" = true
+
+	[origins."otherworldorigins:subclass/bard/valor"]
+		enabled = true
+		"otherworldorigins:subclass/bard/valor" = true
+
+	[origins."otherworldorigins:subclass/ranger/beast_master"]
+		enabled = true
+		"otherworldorigins:subclass/ranger/beast_master" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/blue"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/blue" = true
+
+	[origins."otherworldorigins:feats/lucky"]
+		enabled = true
+		"otherworldorigins:feats/lucky" = true
+
+	[origins."otherworldorigins:apts/one/def"]
+		enabled = true
+		"otherworldorigins:apts/one/def" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/gold"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/gold" = true
+
+	[origins."otherworldorigins:class/sorcerer"]
+		enabled = true
+		"otherworldorigins:class/sorcerer/attributes" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:feats/dual_wielder"]
+		enabled = true
+		"otherworldorigins:feats/dual_wielder" = true
+
+	[origins."otherworldorigins:race/dwarf"]
+		enabled = true
+		"otherworldorigins:race/dwarf/attributes" = true
+		"otherworldorigins:race/dwarf/dwarven_resilience" = true
+		"otherworldorigins:race/dwarf/speed" = true
+		"otherworldorigins:race/dwarf/size" = true
+		"otherworldorigins:dark_vision" = true
+
+	[origins."otherworldorigins:feats/chef"]
+		enabled = true
+		"otherworldorigins:feats/chef" = true
+
+	[origins."otherworldorigins:subclass/barbarian/wild_magic"]
+		enabled = true
+		"otherworldorigins:subclass/barbarian/wild_magic" = true
+
+	[origins."otherworldorigins:subrace/elf/high"]
+		enabled = true
+		"otherworldorigins:subrace/elf/high" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:subclass/cleric/life"]
+		enabled = true
+		"otherworldorigins:subclass/cleric/life" = true
+
+	[origins."otherworldorigins:cantrips/firebolt"]
+		enabled = true
+		"otherworldorigins:cantrips/firebolt" = true
+
+	[origins."otherworldorigins:race/halfling"]
+		enabled = true
+		"otherworldorigins:race/halfling/attributes" = true
+		"otherworldorigins:race/halfling/nimbleness" = true
+		"otherworldorigins:race/halfling/size" = true
+		"otherworldorigins:race/halfling/speed" = true
+
+	[origins."otherworldorigins:subclass/artificer/artillerist"]
+		enabled = true
+		"otherworldorigins:subclass/artificer/artillerist" = true
+
+	[origins."otherworldorigins:cantrips/magic_missile"]
+		enabled = true
+		"otherworldorigins:cantrips/magic_missile" = true
+
+	[origins."otherworldorigins:subrace/gnome/deep"]
+		enabled = true
+		"otherworldorigins:subrace/gnome/deep" = true
+
+	[origins."otherworldorigins:subrace/half_elf/high"]
+		enabled = true
+		"otherworldorigins:subrace/half_elf/high" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:apts/one/int"]
+		enabled = true
+		"otherworldorigins:apts/one/int" = true
+
+	[origins."otherworldorigins:subclass/fighter/battle_master"]
+		enabled = true
+		"otherworldorigins:subclass/fighter/battle_master" = true
+
+	[origins."otherworldorigins:apts/two/mag"]
+		enabled = true
+		"otherworldorigins:apts/two/mag" = true
+
+	[origins."otherworldorigins:subclass/cleric/war"]
+		enabled = true
+		"otherworldorigins:subclass/cleric/war" = true
+
+	[origins."otherworldorigins:cantrips/two/gust"]
+		enabled = true
+		"otherworldorigins:cantrips/two/gust" = true
+
+	[origins."otherworldorigins:race/half_elf"]
+		enabled = true
+		"otherworldorigins:race/half_elf/attributes" = true
+		"otherworldorigins:race/half_elf/charisma" = true
+		"otherworldorigins:dark_vision" = true
+
+	[origins."otherworldorigins:subclass/monk/four_elements"]
+		enabled = true
+		"otherworldorigins:subclass/monk/four_elements" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/silver"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/silver" = true
+
+	[origins."otherworldorigins:apts/two/bld"]
+		enabled = true
+		"otherworldorigins:apts/two/bld" = true
+
+	[origins."otherworldorigins:subclass/wizard/evocation"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/evocation" = true
+
+	[origins."otherworldorigins:subrace/elf/wood"]
+		enabled = true
+		"otherworldorigins:subrace/elf/wood" = true
+
+	[origins."otherworldorigins:subrace/human/variant"]
+		enabled = true
+		"otherworldorigins:race/human_variant" = true
+
+	[origins."otherworldorigins:class/ranger"]
+		enabled = true
+		"otherworldorigins:class/ranger/attributes" = true
+		"otherworldorigins:class/ranger/goodberry" = true
+		"otherworldorigins:class/ranger/favored_foe" = true
+		"otherworldorigins:class/ranger/landstride" = true
+
+	[origins."otherworldorigins:apts/two/const"]
+		enabled = true
+		"otherworldorigins:apts/two/const" = true
+
+	[origins."otherworldorigins:subclass/barbarian/berserker"]
+		enabled = true
+		"otherworldorigins:subclass/barbarian/berserker" = true
+
+	[origins."otherworldorigins:subclass/artificer/battle_smith"]
+		enabled = true
+		"otherworldorigins:subclass/artificer/battle_smith" = true
+
+	[origins."otherworldorigins:subclass/paladin/ancients"]
+		enabled = true
+		"otherworldorigins:subclass/paladin/ancients" = true
+
+	[origins."otherworldorigins:subclass/ranger/gloom_stalker"]
+		enabled = true
+		"otherworldorigins:subclass/ranger/gloom_stalker" = true
+
+	[origins."otherworldorigins:subclass/wizard/transmutation"]
+		enabled = true
+		"otherworldorigins:subclass/wizard/transmutation" = true
+
+	[origins."otherworldorigins:subclass/fighter/eldritch_knight"]
+		enabled = true
+		"otherworldorigins:subclass/fighter/eldritch_knight" = true
+		"otherworldorigins:cantrip_desc" = true
+
+	[origins."otherworldorigins:race/elf"]
+		enabled = true
+		"otherworldorigins:race/elf/attributes" = true
+		"otherworldorigins:dark_vision" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/red"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/red" = true
+
+	[origins."otherworldorigins:race/human_variant"]
+		enabled = true
+		"otherworldorigins:race/human_variant/dummy" = true
+
+	[origins."otherworldorigins:subrace/human/base"]
+		enabled = true
+		"otherworldorigins:race/human" = true
+
+	[origins."otherworldorigins:race/other"]
+		enabled = true
+
+	[origins."otherworldorigins:apts/one/lck"]
+		enabled = true
+		"otherworldorigins:apts/one/lck" = true
+
+	[origins."otherworldorigins:feats/elemental_adept"]
+		enabled = true
+		"otherworldorigins:feats/elemental_adept" = true
+
+	[origins."otherworldorigins:subrace/dragonborn/black"]
+		enabled = true
+		"otherworldorigins:subrace/dragonborn/black" = true
+
+	[origins."otherworldorigins:feats/resilient"]
+		enabled = true
+		"otherworldorigins:feats/resilient" = true
+
+	[origins."otherworldorigins:cantrips/two/acid_orb"]
+		enabled = true
+		"otherworldorigins:cantrips/two/acid_orb" = true
+
+	[origins."otherworldorigins:feats/skilled"]
+		enabled = true
+		"otherworldorigins:feats/skilled" = true
+
+	[origins."otherworldorigins:subclass/monk/open_hand"]
+		enabled = true
+		"otherworldorigins:subclass/monk/open_hand" = true
+
+	[origins."otherworldorigins:subrace/other/goblin"]
+		enabled = true
+		"otherworldorigins:subrace/other/goblin/attributes" = true
+		"otherworldorigins:subrace/other/goblin/size" = true
+		"otherworldorigins:subrace/other/goblin/cold_resistance" = true
+		"otherworldorigins:subrace/other/goblin/gold_proficiency" = true
+		"otherworldorigins:subrace/other/goblin/gold_durability" = true
+
+	[origins."otherworldorigins:subrace/other/hobgoblin"]
+		enabled = true
+		"otherworldorigins:subrace/other/hobgoblin/attributes" = true
+		"otherworldorigins:subrace/other/hobgoblin/heat_resistance" = true
+		"otherworldorigins:subrace/other/hobgoblin/gold_proficiency" = true
+		"otherworldorigins:subrace/other/hobgoblin/gold_durability" = true
+
+	[origins."otherworldorigins:feats/two_handed"]
+		enabled = true
+		"otherworldorigins:feats/two_handed" = true
+

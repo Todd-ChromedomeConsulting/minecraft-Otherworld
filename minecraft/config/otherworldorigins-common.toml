@@ -1,0 +1,149 @@
+
+["Otherworld Origins Config"]
+
+	["Otherworld Origins Config"."Enchantment Restrictions"]
+		# Enable class-based enchantment restrictions
+		enableEnchantmentRestrictions = true
+
+	["Otherworld Origins Config"."Durability Rework"]
+		#Enable Durability Reowrk
+		enableDurabilityRework = true
+
+		# Valid spell categories are: OFFENSIVE, SUPPORT, DEFENSIVE
+		# Any spells not listed in any category will default to OFFENSIVE
+		# Spells can be assigned to multiple categories
+		# Spells from Iron's Spellbooks can omit the 'irons_spellbooks:' namespace prefix
+		["Otherworld Origins Config"."Durability Rework"."Spell Classification"]
+			# List of spells that deal damage or have harmful effects
+			offensive_spells = ["acupuncture", "blood_needles", "blood_slash", "devour", "ray_of_siphoning", "wither_skull", "dragon_breath", "magic_arrow", "magic_missile", "starfall", "black_hole", "chain_creeper", "fang_strike", "fang_ward", "firecracker", "arrow_volley", "blaze_storm", "fireball", "firebolt", "fire_breath", "magma_bomb", "flaming_strike", "scorch", "guiding_bolt", "divine_smite", "cone_of_cold", "icicle", "ray_of_frost", "frostwave", "chain_lightning", "electrocute", "lightning_bolt", "lightning_lance", "shockwave", "thunderstorm", "acid_orb", "blight", "poison_arrow", "poison_breath", "poison_splash", "earthquake", "stomp", "sculk_tentacles", "sonic_boom", "eldritch_blast", "wisp", "lob_creeper", "burning_dash", "wall_of_fire", "ice_block", "summon_vex", "summon_polar_bear", "raise_dead"]
+			# List of spells that heal, buff, or otherwise aid allies
+			support_spells = ["blessing_of_life", "cloud_of_regeneration", "greater_heal", "healing_circle", "heal", "gluttony", "spectral_hammer", "slow", "heat_surge", "raise_dead", "portal", "gust", "firefly_swarm", "wololo", "charge", "traveloptics:em_pulse", "blight", "haste", "slow", "gust", "fortify", "spectral_hammer", "traveloptics:rainfall", "gtbcs_geomancy_plus:geo_conductor", "cleanse", "acid_orb"]
+			# List of spells that provide protection, mobility, or control effects
+			defensive_spells = ["counterspell", "evasion", "teleport", "gust", "invisibility", "shield", "haste", "frost_step", "ascension", "charge", "root", "spider_aspect", "firefly_swarm", "oakskin", "abyssal_shroud", "planar_sight", "telekinesis", "blood_step", "portal", "slow", "wall_of_fire", "ice_block", "spectral_hammer", "angel_wing", "heartstop", "fortify", "healing_circle", "traveloptics:rainfall", "traveloptics:flames_reborn", "ice_tomb", "cleanse", "gtbcs_geomancy_plus:seismic_surf"]
+			# List of spells that bypass all casting restrictions
+			# The default list contains Origin spells, but this is just an example - 
+			# Spells will always be castable if they are innate Origin abilities, even if they are not on this list.
+			unrestricted_spells = ["otherworldorigins:summon_golem", "otherworldorigins:summon_grizzly_bear", "otherworldorigins:black_dragon_breath", "otherworldorigins:blue_dragon_breath", "otherworldorigins:brass_dragon_breath", "otherworldorigins:bronze_dragon_breath", "otherworldorigins:copper_dragon_breath", "otherworldorigins:gold_dragon_breath", "otherworldorigins:red_dragon_breath", "otherworldorigins:silver_dragon_breath", "otherworldorigins:white_dragon_breath", "counterspell"]
+
+		["Otherworld Origins Config"."Durability Rework"."Allowed Spells per Class"]
+			# Only edit values inside of the square brackets []
+			# To remove restrictions, add all 3 categories (OFFENSIVE, DEFENSIVE, SUPPORT) to the array for the listed subclass.
+			# An empty array means this subclass can not cast spells.
+			## Do not delete rows from this list!
+			"artificer/alchemist" = ["DEFENSIVE", "SUPPORT"]
+			"artificer/armorer" = ["DEFENSIVE"]
+			"artificer/artillerist" = ["OFFENSIVE"]
+			"artificer/battle_smith" = ["OFFENSIVE", "DEFENSIVE", "SUPPORT"]
+			"barbarian/berserker" = []
+			"barbarian/wild_magic" = []
+			"barbarian/wildheart" = []
+			"bard/lore" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"bard/swords" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"bard/valor" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"cleric/knowledge" = ["SUPPORT", "DEFENSIVE"]
+			"cleric/life" = ["DEFENSIVE", "SUPPORT"]
+			"cleric/tempest" = ["OFFENSIVE"]
+			"cleric/trickery" = ["SUPPORT", "DEFENSIVE"]
+			"cleric/war" = ["OFFENSIVE", "DEFENSIVE"]
+			"druid/land" = ["DEFENSIVE", "SUPPORT"]
+			"druid/moon" = ["OFFENSIVE", "DEFENSIVE"]
+			"druid/spores" = ["OFFENSIVE"]
+			"fighter/battle_master" = []
+			"fighter/champion" = []
+			"fighter/eldritch_knight" = ["OFFENSIVE"]
+			"monk/four_elements" = []
+			"monk/open_hand" = ["SUPPORT"]
+			"monk/shadow" = ["DEFENSIVE"]
+			"paladin/ancients" = ["DEFENSIVE", "SUPPORT"]
+			"paladin/breaker" = ["OFFENSIVE", "DEFENSIVE"]
+			"paladin/devotion" = ["OFFENSIVE", "SUPPORT"]
+			"paladin/vengeance" = ["OFFENSIVE", "DEFENSIVE"]
+			"ranger/beast_master" = ["SUPPORT"]
+			"ranger/gloom_stalker" = ["DEFENSIVE"]
+			"ranger/hunter" = ["OFFENSIVE"]
+			"rogue/arcane_trickster" = ["SUPPORT", "DEFENSIVE"]
+			"rogue/assassin" = ["OFFENSIVE"]
+			"rogue/thief" = ["DEFENSIVE"]
+			"sorcerer/draconic_bloodline" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"sorcerer/wild_magic" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"warlock/fiend" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"warlock/great_old_one" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/abjuration" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/conjuration" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/enchanting" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/evocation" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/necromancy" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+			"wizard/transmutation" = ["OFFENSIVE", "SUPPORT", "DEFENSIVE"]
+
+		["Otherworld Origins Config"."Durability Rework"."Allowed Schools per Class"]
+			# Schools are additive to category restrictions - a spell is allowed if it matches either a category OR a school.
+			# School IDs use the format 'namespace:school_name' (e.g., 'irons_spellbooks:holy', 'irons_spellbooks:fire').
+			# Common schools: holy, blood, ender, evocation, fire, ice, lightning, nature, eldritch
+			# An empty array [] means no additional schools are allowed beyond category restrictions.
+			# This setting is ignored for subclasses that already have access to all spell categories.
+			"artificer/alchemist" = ["irons_spellbooks:nature", "irons_spellbooks:aqua"]
+			"artificer/armorer" = ["irons_spellbooks:lightning"]
+			"artificer/artillerist" = ["irons_spellbooks:fire", "irons_spellbooks:lightning"]
+			"artificer/battle_smith" = []
+			"barbarian/berserker" = []
+			"barbarian/wild_magic" = []
+			"barbarian/wildheart" = []
+			"bard/lore" = []
+			"bard/swords" = []
+			"bard/valor" = []
+			"cleric/knowledge" = ["irons_spellbooks:holy", "irons_spellbooks:ender"]
+			"cleric/life" = ["irons_spellbooks:holy"]
+			"cleric/tempest" = ["irons_spellbooks:holy", "irons_spellbooks:lightning", "traveloptics:aqua"]
+			"cleric/trickery" = ["irons_spellbooks:holy", "irons_spellbooks:ender"]
+			"cleric/war" = ["irons_spellbooks:holy"]
+			"druid/land" = ["irons_spellbooks:nature", "gtbcs_geomancy_plus:geo", "traveloptics:aqua"]
+			"druid/moon" = ["irons_spellbooks:nature", "gtbcs_geomancy_plus:geo"]
+			"druid/spores" = ["irons_spellbooks:nature", "irons_spellbooks:blood"]
+			"fighter/battle_master" = []
+			"fighter/champion" = []
+			"fighter/eldritch_knight" = ["irons_spellbooks:fire", "irons_spellbooks:ice", "irons_spellbooks:lightning"]
+			"monk/four_elements" = ["irons_spellbooks:fire", "irons_spellbooks:ice", "irons_spellbooks:lightning", "irons_spellbooks:nature", "traveloptics:aqua", "gtbcs_geomancy_plus:geo"]
+			"monk/open_hand" = []
+			"monk/shadow" = ["irons_spellbooks:ender"]
+			"paladin/ancients" = ["irons_spellbooks:holy", "irons_spellbooks:nature"]
+			"paladin/breaker" = ["irons_spellbooks:blood"]
+			"paladin/devotion" = ["irons_spellbooks:holy"]
+			"paladin/vengeance" = ["irons_spellbooks:holy"]
+			"ranger/beast_master" = ["irons_spellbooks:nature"]
+			"ranger/gloom_stalker" = ["irons_spellbooks:nature", "irons_spellbooks:ender"]
+			"ranger/hunter" = ["irons_spellbooks:nature"]
+			"rogue/arcane_trickster" = ["irons_spellbooks:ender", "irons_spellbooks:eldritch"]
+			"rogue/assassin" = ["irons_spellbooks:blood", "irons_spellbooks:nature"]
+			"rogue/thief" = ["irons_spellbooks:ender"]
+			"sorcerer/draconic_bloodline" = []
+			"sorcerer/wild_magic" = []
+			"warlock/fiend" = []
+			"warlock/great_old_one" = []
+			"wizard/abjuration" = []
+			"wizard/conjuration" = []
+			"wizard/enchanting" = []
+			"wizard/evocation" = []
+			"wizard/necromancy" = []
+			"wizard/transmutation" = []
+
+		["Otherworld Origins Config"."Durability Rework"."Starter Kit"]
+			# Items given to players when they confirm their character creation.
+			# Format: "item_id|count|nbt" where:
+			#   - item_id: The item resource location (e.g., minecraft:iron_sword)
+			#   - count: The number of items (e.g., 1)
+			#   - nbt: Optional NBT data as JSON string (can be empty, e.g., {} or leave empty)
+			# Example: "minecraft:iron_sword|1|" or "minecraft:enchanted_book|1|{\"StoredEnchantments\":[{\"id\":\"minecraft:sharpness\",\"lvl\":1}]}"
+			# List of starter kit items in format: item_id|count|nbt
+			starter_kit_items = ["ftbquests:book|1|", "minecraft:torch|4|", "legendarysurvivaloverhaul:bandage|6|"]
+
+		["Otherworld Origins Config"."Durability Rework"."Shoulder Surfing Integration"]
+			# Powers that should NOT trigger player rotation toward the crosshair when activated.
+			# If ALL powers being activated match the blacklist, rotation is skipped.
+			# Supports wildcards: * matches any characters.
+			# Examples:
+			#   - "origins:*" matches all powers from the origins namespace
+			#   - "*toggle*" matches any power containing 'toggle'
+			#   - "otherworldorigins:some_power" matches exactly that power
+			# List of power patterns to exclude from shoulder surfing rotation
+			rotation_blacklist = ["otherworldorigins:dark_vision_toggle", "otherworldorigins:cantrips/fortify", "otherworldorigins:cantrips/two/fortify"]
+

@@ -1,0 +1,17 @@
+filename = 'Loot Journal-forge-1.20.1-5.0.1.jar'
+name = 'Loot Journal (Forge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Loot Journal 5.0.1'
+
+[download]
+hash = '8e7ccadf53cd18cd092b58f72f781bed7211bf04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6998294
+project-id = 700723

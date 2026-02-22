@@ -1,0 +1,17 @@
+filename = 'feur_extension_jungle-1.20.1-forge.jar'
+name = 'Feur - Extension Jungle'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'feur_extension_jungle-1.20.1-forge.jar'
+
+[download]
+hash = '2e58432ff0376fc9b960855ad81a9d15d8ee3abc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6680135
+project-id = 1114139

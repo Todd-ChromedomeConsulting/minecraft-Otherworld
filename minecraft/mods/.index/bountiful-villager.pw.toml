@@ -1,0 +1,17 @@
+filename = 'bountiful_npc-forge-1.20.1-1.0.3.jar'
+name = 'Bountiful Villager'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bountiful_npc-forge-1.20.1-1.0.3.jar'
+
+[download]
+hash = '17fcdcfec97e3024b3736087d0ed98a859e868df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7191836
+project-id = 1373610

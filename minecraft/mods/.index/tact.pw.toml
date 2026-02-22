@@ -1,0 +1,17 @@
+filename = 'tact-1.5.2+1.20.1.jar'
+name = "TACT - Tiny Alex's Caves Tweaks"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TACT v1.5.2 (1.20.1 MC)'
+
+[download]
+hash = 'aedf26b1df6dd31ad23a6512e28481b31bf321a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7641715
+project-id = 926263

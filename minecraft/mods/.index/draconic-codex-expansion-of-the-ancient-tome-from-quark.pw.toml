@@ -1,0 +1,17 @@
+filename = 'draconiccodex-0.6.jar'
+name = 'Draconic Codex (Quark Ancient Tome Expansion)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'draconiccodex-0.6.jar'
+
+[download]
+hash = 'fb0f16500a8383d475eaa83c2e9b8e8ebcdc89c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6607646
+project-id = 1259139

@@ -1,0 +1,17 @@
+filename = 'familiarslib-1.20.1-1.5.jar'
+name = 'FamiliarsLib'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'familiarslib-1.20.1-1.5.jar'
+
+[download]
+hash = '81255f4b4816bd90066908a1d1fe81dd07e03f1d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7468719
+project-id = 1316458

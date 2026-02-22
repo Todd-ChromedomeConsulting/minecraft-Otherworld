@@ -1,0 +1,17 @@
+filename = 'formations-1.0.4-forge-mc1.20.2.jar'
+name = 'Formations (Structure Library)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Formations 1.0.4 for Forge 1.20.2'
+
+[download]
+hash = '110c95382a63c9ed4eb76125bc2fed09cac6d905'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6789339
+project-id = 915115

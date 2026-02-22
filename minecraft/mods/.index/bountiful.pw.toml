@@ -1,0 +1,17 @@
+filename = 'Bountiful-6.0.4+1.20.1-forge.jar'
+name = 'Bountiful'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Bountiful-6.0.4+1.20.1-forge.jar'
+
+[download]
+hash = '3627112f17aeef9018d98883a2469e7f90afc3c4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5937417
+project-id = 309516

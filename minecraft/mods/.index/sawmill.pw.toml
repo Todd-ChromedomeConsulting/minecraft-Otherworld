@@ -1,0 +1,17 @@
+filename = 'sawmill-1.20-1.4.10.jar'
+name = 'Sawmill'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sawmill-1.20-1.4.10.jar'
+
+[download]
+hash = 'a22d7c1e3f6142d061f4f52447489628ebcf3e43'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6948522
+project-id = 964817

@@ -1,0 +1,17 @@
+filename = 'feur_dungeon_spawner-1.20.1-forge.jar'
+name = 'Feur - Dungeon Spawner'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'feur_dungeon_spawner-1.20.1-forge.jar'
+
+[download]
+hash = '47f0708b45b0d9fc9514c860c80fc7c606684801'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6680334
+project-id = 1178013

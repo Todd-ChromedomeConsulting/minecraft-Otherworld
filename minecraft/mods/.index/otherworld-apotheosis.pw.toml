@@ -1,0 +1,17 @@
+filename = 'otherworldapoth-0.6.0.jar'
+name = 'Otherworld - Apotheosis'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'v0.6.0-beta'
+
+[download]
+hash = '21458c072eec0c8d4506d26ac142ccad0f685a2d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7651510
+project-id = 1144178

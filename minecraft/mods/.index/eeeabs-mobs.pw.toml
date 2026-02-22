@@ -1,0 +1,17 @@
+filename = 'eeeabsmobs-1.20.1-0.97-Fix.jar'
+name = "EEEAB's Mobs"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'eeeabsmobs-1.20.1-0.97-Fix.jar'
+
+[download]
+hash = 'ceef31a3c3b5a1766f39378ce34fb1f00ad8aac5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6095880
+project-id = 921600

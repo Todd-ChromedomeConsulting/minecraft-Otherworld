@@ -1,0 +1,17 @@
+filename = 'JadeColonies-1.20.1-1.4.2.jar'
+name = 'JadeColonies'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JadeColonies-1.20.1-1.4.2.jar'
+
+[download]
+hash = '2758989a557e37bb12d6bf5bac88bc47a57f1e2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5048697
+project-id = 882310

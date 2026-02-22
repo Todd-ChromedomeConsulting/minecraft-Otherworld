@@ -1,0 +1,17 @@
+filename = 'YungsMenuTweaks-1.20.1-Forge-1.0.2.jar'
+name = "YUNG's Menu Tweaks (Forge/NeoForge)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.20.1] YUNG's Menu Tweaks v1.0.2 (Forge)"
+
+[download]
+hash = 'b43a0bc054d3974076d36b5cfec6aeab968d24a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5113568
+project-id = 917285

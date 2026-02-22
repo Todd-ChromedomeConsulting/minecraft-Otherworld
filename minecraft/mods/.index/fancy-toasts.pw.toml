@@ -1,0 +1,17 @@
+filename = 'fancytoasts-forge-1.20.1-1.4.6.jar'
+name = 'Fancy Toasts | Better Advancements'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fancytoasts v1.4.6 forge 1.20.1'
+
+[download]
+hash = '6bfe31adfbf31a53298ee498776129bef351dc3f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7577035
+project-id = 1326436

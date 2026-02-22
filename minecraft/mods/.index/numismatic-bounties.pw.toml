@@ -1,0 +1,17 @@
+filename = 'Numismatic-Bounties-universal.jar'
+name = 'Numismatic Bounties (Numismatic Overhaul)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = '1eabb63aee081ebedb63434062f896cf470c04fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6586611
+project-id = 1253059

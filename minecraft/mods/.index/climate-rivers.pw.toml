@@ -1,0 +1,17 @@
+filename = 'ClimateRivers-v20.1.0-1.20.1-Forge.jar'
+name = 'Climate Rivers'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] [1.20.1] ClimateRivers-v20.1.0'
+
+[download]
+hash = '2e7a9b02a1dfdc4279330ae5c4ff8c4c269bd27d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6490317
+project-id = 1255421

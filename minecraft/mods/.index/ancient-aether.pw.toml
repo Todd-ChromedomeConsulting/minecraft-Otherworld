@@ -1,0 +1,17 @@
+filename = 'ancient_aether-0.9.10.jar'
+name = 'Ancient Aether'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Ancient Aether v0.9.10'
+
+[download]
+hash = '4a82d69e1cff13060c3a1e1c5e47a6407c72cee2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6400544
+project-id = 886751

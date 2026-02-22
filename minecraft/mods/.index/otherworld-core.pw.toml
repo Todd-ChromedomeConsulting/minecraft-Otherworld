@@ -1,0 +1,17 @@
+filename = 'otherworld-1.20.1-0.6.0+1.20.1.jar'
+name = 'Otherworld Core'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Forge-0.6.0+1.20.1+1.20.1'
+
+[download]
+hash = '292d2272225583897f5ef337d47fbd8e2458bb3a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7651506
+project-id = 1351232

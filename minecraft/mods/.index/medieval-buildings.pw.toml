@@ -1,0 +1,17 @@
+filename = 'medieval_buildings-1.20.1-1.1.3-forge.jar'
+name = 'Medieval Buildings - New Structures!'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] Medieval Buildings - MC 1.20.1 - 1.1.3'
+
+[download]
+hash = 'e9beed6998e6805acbbdd0fd10f4e873dde6a269'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7251122
+project-id = 924590

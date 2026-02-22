@@ -1,0 +1,17 @@
+filename = 'morevillagers-forge-1.20.1-5.0.0.jar'
+name = 'More Villagers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'morevillagers-forge-1.20.1-5.0.0.jar'
+
+[download]
+hash = 'a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4857287
+project-id = 484954

@@ -1,0 +1,17 @@
+filename = 'formationsnether-1.0.5.jar'
+name = 'Formations Nether'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Formations Nether 1.0.5'
+
+[download]
+hash = '5a6371db683b4d33f5034f7d192424cfe73ea05f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5550420
+project-id = 918840

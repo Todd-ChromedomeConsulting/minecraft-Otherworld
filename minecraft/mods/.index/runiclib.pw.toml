@@ -1,0 +1,17 @@
+filename = 'forge-runiclib-1.20.1-4.3.7.jar'
+name = 'RunicLib'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-runiclib-1.20.1-4.3.7.jar'
+
+[download]
+hash = '6001d68ec8058350c50e851b04440511c2ea5051'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6981571
+project-id = 880879

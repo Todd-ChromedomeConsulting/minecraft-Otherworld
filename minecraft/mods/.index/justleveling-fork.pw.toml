@@ -1,0 +1,17 @@
+filename = 'justlevelingfork-1.2.1.jar'
+name = 'JustLeveling [Fork]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JLFork-1.2.1 1.20.1'
+
+[download]
+hash = '3b8bd2dffb8a786a469240d6624cb062d960ffc4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6189891
+project-id = 1073400

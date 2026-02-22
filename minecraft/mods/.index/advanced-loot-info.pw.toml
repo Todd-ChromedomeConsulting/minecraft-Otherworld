@@ -1,0 +1,17 @@
+filename = 'AdvancedLootInfo-forge-1.20.1-1.7.2.jar'
+name = 'Advanced Loot Info'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'AdvancedLootInfo-forge-1.20.1-1.7.2.jar'
+
+[download]
+hash = '4e213aa31bf72508f80c3be1636b0796850bf900'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7600806
+project-id = 1205426

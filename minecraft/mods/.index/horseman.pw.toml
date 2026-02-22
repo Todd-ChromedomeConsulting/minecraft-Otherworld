@@ -1,0 +1,17 @@
+filename = 'horseman-1.20.1-1.3.14-forge.jar'
+name = 'Horseman'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Horseman - Forge 1.20.1 - 1.3.14'
+
+[download]
+hash = 'e36028ff3bba076f9624bc28f7137aef3c07b9e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7047189
+project-id = 1082085

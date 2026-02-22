@@ -1,0 +1,17 @@
+filename = 'hardcorerevival-forge-1.20.1-12.0.10.jar'
+name = 'Hardcore Revival'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'hardcorerevival-forge-1.20.1-12.0.10.jar'
+
+[download]
+hash = 'c2bb7495ff950f65529bc6ea5a6b5d7aa9791134'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7609862
+project-id = 274036

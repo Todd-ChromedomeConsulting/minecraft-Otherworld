@@ -1,0 +1,17 @@
+filename = 'p1nero_dl-forge1.20.1-2.0.4-mc1.20.1-forge.jar'
+name = "P1nero's Dialogue Lib"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.4-mc1.20.1-forge'
+
+[download]
+hash = 'fcdcdb5ef94a73cc88a107ed05d84ef595580305'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7539373
+project-id = 1274526

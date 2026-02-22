@@ -1,0 +1,17 @@
+filename = 'iaf_patcher-1.2-all.jar'
+name = 'Ice And Fire Patcher'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'iaf_patcher-1.2-all.jar'
+
+[download]
+hash = 'dd863614b311c43140f2501001bb7feef0b11fc5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6940339
+project-id = 1066111

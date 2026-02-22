@@ -1,0 +1,17 @@
+filename = 'feur_extension_fossil-1.20.1-forge.jar'
+name = 'Feur - Extension Fossil'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'feur_extension_fossil-1.20.1-forge.jar'
+
+[download]
+hash = '30924088094cecbc8837a8c21f3c55fedcd63450'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7232476
+project-id = 1117070

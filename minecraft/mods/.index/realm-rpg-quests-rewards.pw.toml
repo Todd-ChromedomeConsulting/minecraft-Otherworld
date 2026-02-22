@@ -1,0 +1,17 @@
+filename = 'realmrpg_quests-0.1.1-forge-1.20.1.jar'
+name = 'Realm RPG: Quests & Rewards'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'realmrpg_quests-0.1.1-forge-1.20.1.jar'
+
+[download]
+hash = '72aee7d095cee4a1ab1201cde5f34842b9564a6b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5388398
+project-id = 1021783
