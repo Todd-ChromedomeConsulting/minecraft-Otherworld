@@ -169,9 +169,9 @@
     }
   },
   "pickup": {
-    "customPickup": true,
+    "customPickup": false,
     "pickupWhenSneaking": true,
-    "pickupNormally": false,
+    "pickupNormally": true,
     "maximumPickupRange": 5,
     "hitboxIncrease": 0.2,
     "alwaysPickup": {
