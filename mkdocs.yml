@@ -45,6 +45,7 @@ nav:
   - Temperature & Thirst: survival.md
   - Balance Patches: fixes.md
   - Progression Guide: progression.md
+  - Mod List: mods.md
   - Modifying Settings: modifying-settings.md
 
 markdown_extensions:
