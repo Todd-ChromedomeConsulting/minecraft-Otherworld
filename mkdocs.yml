@@ -1,0 +1,66 @@
+site_name: "Otherworld [Dungeons & Dragons] Wiki"
+site_description: "Complete guide for the Otherworld Minecraft modpack — D&D-inspired adventure with 392+ mods"
+site_url: https://todd-chromedomeconsulting.github.io/minecraft-Otherworld/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+repo_url: https://github.com/Todd-ChromedomeConsulting/minecraft-Otherworld
+repo_name: minecraft-Otherworld
+
+nav:
+  - Home: index.md
+  - Custom Recipes: recipes.md
+  - Apotheosis Loot & Gems: apotheosis.md
+  - Mob Scaling: autoleveling.md
+  - Combat System: better-combat.md
+  - Bounties, Gateways & Loot: loot-tweaks.md
+  - Cross-Mod Tags: tags.md
+  - Temperature & Thirst: survival.md
+  - Balance Patches: fixes.md
+  - Progression Guide: progression.md
+  - Modifying Settings: modifying-settings.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
